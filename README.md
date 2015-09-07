@@ -20,6 +20,7 @@ https://github.com/toddmotto/angularjs-styleguide
 
 ## Extra Content
   1. [Understanding Angular’s $scope and $rootScope event system $emit, $broadcast and $on](#systembroadcast)
+  2. [Rethinking AngularJS Controllers](#rethinking Angular Controller)
 
 ## Modules
 
