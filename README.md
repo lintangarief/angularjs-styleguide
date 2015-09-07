@@ -1,4 +1,7 @@
-# AngularJS styleguide
+# AngularJS styleguidem
+
+Thanks For toddmotto
+Original Version https://github.com/toddmotto/angularjs-styleguide
 
 *Opinionated AngularJS styleguide for teams by [@toddmotto](//twitter.com/toddmotto)*
 
