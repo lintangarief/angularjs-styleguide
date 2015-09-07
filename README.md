@@ -1,9 +1,8 @@
 # AngularJS style guide
 
-Thanks For toddmotto
-Original Version : 
+Thanks For toddmotto :
+Original Version :
 https://github.com/toddmotto/angularjs-styleguide
-*Opinionated AngularJS styleguide for teams by [@toddmotto](//twitter.com/toddmotto)*
 
 ## Table of Contents
 
@@ -18,6 +17,9 @@ https://github.com/toddmotto/angularjs-styleguide
   1. [Angular wrapper references](#angular-wrapper-references)
   1. [Comment standards](#comment-standards)
   1. [Minification and annotation](#minification-and-annotation)
+
+## Extra Content
+  1. [Understanding Angular’s $scope and $rootScope event system $emit, $broadcast and $on](#systembroadcast)
 
 ## Modules
 
